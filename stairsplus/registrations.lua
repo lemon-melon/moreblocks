@@ -40,6 +40,12 @@ local default_nodes = { -- Default stairs/slabs/panels/microblocks:
 	"desert_stonebrick",
 	"sandstonebrick",
 	"sandstone_block",
+	"silver_sandstone",
+	"silver_sandstone_brick",
+	"silver_sandstone_block",
+	"desert_sandstone",
+	"desert_sandstone_brick",
+	"desert_sandstone_block",
 	"coral_skeleton",
 	"farming:straw"
 }
